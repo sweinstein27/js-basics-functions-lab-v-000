@@ -14,3 +14,7 @@ function distanceFromHqInFeet(block){
     return (42 - block)*264
   }
 }
+
+function distanceTravelledInFeet(start, end){
+  return Math.abs(start - end)*268
+}
