@@ -18,3 +18,14 @@ function distanceFromHqInFeet(block){
 function distanceTravelledInFeet(start, end){
   return Math.abs(start - end)*264
 }
+
+function calculatesFarePrice(start, destination){
+  switch (Math.abs(destination-start) {
+    case <400:
+      return "This is on us."
+      
+      break;
+    default:
+      
+  }
+}
