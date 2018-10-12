@@ -23,9 +23,6 @@ function calculatesFarePrice(start, destination){
   switch (Math.abs(destination-start) {
     case <400:
       return "This is on us."
-      
-      break;
-    default:
-      
+
   }
 }
